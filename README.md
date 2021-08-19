@@ -6,7 +6,7 @@
 
 ║Recently I started learning Puthon.
 
-║Frameworks: Django..
+║Frameworks: Aiogram..
 
 ║My contacts:
 
