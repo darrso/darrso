@@ -4,7 +4,7 @@
 
 ║You can call me Darrso.
 
-║Recently I started learning Puthon.
+║Recently I started learning Pнthon.
 
 ║Frameworks: Aiogram..
 
