@@ -6,7 +6,7 @@
 
 ║Recently I started learning Python.
 
-║Frameworks: Aiogram..
+║Frameworks: Aiogram, SQLAlchemy, serial, Pyrogram..
 
 ║My contacts:
 
